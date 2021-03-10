@@ -31805,7 +31805,7 @@ T:function(a,b){return new S.pI(new F.pW(null),"\u5feb\u6377\u4e8c\u7ef4\u7801 -
 F.pW.prototype={
 aW:function(){return new F.DE(C.m)}}
 F.DE.prototype={
-T:function(a,b){var s=null,r=4293717228,q=new Y.de(new P.F(4290427578),1,C.F),p=t.w,o=b.a7(p).f,n=T.kl(s,40,s),m=t.fQ,l=H.c([R.a2g(!1,!0,new U.pg(M.acP(s,s,new L.oa("../images/app_logo.png",s,s)),200,200,s),s,!0,s,s,s,s,s,s,s,s,s,new F.Vc(),s),T.kl(M.J7(s,new S.ec(new P.F(r),s,s,s,s,s,C.ak),C.h6),300,1),T.a1G(H.c([L.ZY("\u5feb\u6377\u4e8c\u7ef4\u7801 - EasyQRCode",A.n4(s,s,s,s,s,s,s,s,s,s,s,28,s,C.eK,s,s,!0,s,s,s,s,s,s)),M.IQ(s,L.ZY("\u4e13\u4e1a\u4e8c\u7ef4\u7801\u751f\u6210\u5de5\u5177",A.n4(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s)),s,s,s,new V.bl(0,20,0,0),s,s)],m))],m),k=T.kl(s,40,s)
+T:function(a,b){var s=null,r=4293717228,q=new Y.de(new P.F(4290427578),1,C.F),p=t.w,o=b.a7(p).f,n=T.kl(s,40,s),m=t.fQ,l=H.c([R.a2g(!1,!0,new U.pg(M.acP(s,s,new L.oa("assets/images/app_logo.png",s,s)),200,200,s),s,!0,s,s,s,s,s,s,s,s,s,new F.Vc(),s),T.kl(M.J7(s,new S.ec(new P.F(r),s,s,s,s,s,C.ak),C.h6),300,1),T.a1G(H.c([L.ZY("\u5feb\u6377\u4e8c\u7ef4\u7801 - EasyQRCode",A.n4(s,s,s,s,s,s,s,s,s,s,s,28,s,C.eK,s,s,!0,s,s,s,s,s,s)),M.IQ(s,L.ZY("\u4e13\u4e1a\u4e8c\u7ef4\u7801\u751f\u6210\u5de5\u5177",A.n4(s,s,s,s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s)),s,s,s,new V.bl(0,20,0,0),s,s)],m))],m),k=T.kl(s,40,s)
 p=b.a7(p).f
 return new M.qR(T.In(M.IQ(s,T.a1G(H.c([n,new T.zS(C.T,C.p9,C.lZ,C.kS,s,C.nh,s,l,s),k,T.kl(M.J7(s,new S.ec(new P.F(r),s,s,s,s,s,C.ak),C.h6),1,p.a.a),T.kl(s,40,s),T.In(L.ZY("\u53bb\u5c81\u6c5f\u5357\u89c1\u96ea\u65f6\uff0c\u6708\u5e95\u6885\u82b1\u53d1\u3002",s),s,s)],m)),s,s,new S.ec(C.j,s,new F.cy(q,q,q,q),s,s,s,C.ak),new V.bl(40,40,40,40),s,o.a.a),s,s),new P.F(r),s)}}
 F.Vc.prototype={
