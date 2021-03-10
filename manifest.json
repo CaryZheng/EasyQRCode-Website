@@ -1,11 +1,11 @@
 {
-    "name": "myapp",
-    "short_name": "myapp",
+    "name": "快捷二维码 - EasyQRCode",
+    "short_name": "快捷二维码 - EasyQRCode",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "快捷二维码 - EasyQRCode 官网",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
